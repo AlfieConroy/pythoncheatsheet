@@ -1,1 +1,1 @@
-loads of easy python projects to start of with
+loads of easy python projects to start off with
